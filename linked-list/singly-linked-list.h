@@ -1,5 +1,5 @@
 #ifndef SINGLY_LINKED_LIST
-#define SINGLY_LIKED_LIST
+#define SINGLY_LINKED_LIST
 
 //define the list data type as a singly linked list of integers
 typedef struct list List;
