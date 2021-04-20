@@ -2,10 +2,12 @@
 #define STACK
 
 // defining the boolean data type
+#ifndef bool
 typedef enum bool {
     false,
     true
 } bool;
+#endif
 
 // defining the stack structure
 typedef struct stack Stack;
